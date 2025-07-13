@@ -40,7 +40,7 @@
 
 <p align="left">
   <img src="https://i.pinimg.com/originals/b4/a9/f7/b4a9f736f62c24d599f7cb747980ab45.png" height="36" title="ESP32" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/raspberry-pi-logo-vector.svg" height="36" title="Raspberry Pi" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/240px-Raspberry_Pi_Logo.svg.png" height="36" title="Raspberry Pi" />
   <img src="https://companieslogo.com/img/orig/NOD.OL-cab5b4b7.png?t=1720244493" height="36" title="STM32 (STMicroelectronics)" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/atmel-logo-vector.svg" height="36" title="ATmega (Atmel)" />
 </p>
