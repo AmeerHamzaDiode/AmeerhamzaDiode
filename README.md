@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Muhammad Ameer Hamza Nawaz
+ I'm Muhammad Ameer Hamza Nawaz
 
 🚀 **Embedded Systems Engineer | PCB & Firmware Developer | AI + IoT Innovator**  
 🎓 COMSATS University, Electrical Engineering (Class of 2023)  
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 What I Do
+### What I Do
 
 - 🛠️ Embedded systems development with C/C++ and RTOS
 - 🤖 Prototyping smart devices using Raspberry Pi, ESP32, STM32, and ATmega
